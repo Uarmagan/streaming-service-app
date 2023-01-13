@@ -4,13 +4,13 @@
 
 @font-face {
   font-family: "outfit-regular";
-  src: url("../public/fonts/Outfit-Regular.ttf");
+  src: url("../../public/fonts/Outfit-Regular.ttf");
 }
 @font-face {
   font-family: "outfit-medium";
-  src: url("../public/fonts/Outfit-medium.ttf");
+  src: url("../../public/fonts/Outfit-medium.ttf");
 }
 @font-face {
   font-family: "outfit-light";
-  src: url("../public/fonts/Outfit-light.ttf");
+  src: url("../../public/fonts/Outfit-light.ttf");
 }
